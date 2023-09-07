@@ -1,0 +1,21 @@
+body{
+    background-image: url("image3.jpg");
+    background-repeat: no-repeat;
+background-size: cover;
+}
+.title{
+    color: aliceblue;
+ font-size: 50px;
+}
+.title-2{
+    color: red;
+}
+.dot {
+    height: 200px;
+    width: 200px;
+    background-color:lightcyan ;
+    border-radius: 50%;
+    display: inline-block;
+ 
+    
+  }
